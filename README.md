@@ -1,0 +1,2 @@
+This code fetches Wikipedia articles for a list of soccer players and processes them to generate summaries. Abstractive summarization involves generating a summary that captures the essence of the original text in a new form, potentially using natural language processing
+techniques to paraphrase and condense the content. Extractive summarization, on the other hand, involves selecting a subset of sentences directly from the original text to form a summary, without any modification or paraphrasing.
